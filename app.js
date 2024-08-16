@@ -237,13 +237,6 @@ This method should:
 Solve Exercise 14 here:
 */
 
-/*
-game.partyCount = f () {
-    game.party.length
-    return pokemonCount;
-}
-*/
-
 game.partyCount = function () {
     return game.party.length
 }
